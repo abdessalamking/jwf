@@ -4,5 +4,5 @@
 # pip install pyjwt
 # use script 
 # python3 exp_jwt.py <user>
-# exampl :
+# example:
         python3 exp_jwt.py admin
